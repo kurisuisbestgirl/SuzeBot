@@ -1,2 +1,2 @@
 # SuzeBot
-A discord bot for making suzereign make cat noises.
+A discord bot for impersenating suzereign with a bot that makes cat noises.
