@@ -1,0 +1,3 @@
+SuzeBot scans messages sent in servers it is added to for its trigger command (!SuzeNyan~☆) but it does not permently store these messages anywhere.
+The person running the SuzeBot code locally may be able to see other messages that start with ! sent in servers SuzeBot is added too as they show up as an erorr message locally.
+the devoloper of SuzeBot swears she does not care about your data.
